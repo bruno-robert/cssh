@@ -1,0 +1,10 @@
+{
+  "name": "cssh",
+  "version": "1.0.0",
+  "description": "A CLI tool to add, remove and modify entries in the ssh config file (~/.ssh/config).",
+  "main": "index.js",
+  "repository": "https://github.com/uranium78/cssh",
+  "author": "Bruno Robert",
+  "license": "GPL-3",
+  "private": false
+}
